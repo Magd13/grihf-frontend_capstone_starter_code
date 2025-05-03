@@ -11,5 +11,4 @@ Sistema para gestionar la reserva de citas médicas, diseñado para facilitar el
 ## Instalación
 
 1. Clona este repositorio:
-   ```bash
    git clone https://github.com/Magd13/grihf-frontend_capstone_starter_code.git
